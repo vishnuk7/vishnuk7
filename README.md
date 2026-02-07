@@ -1,19 +1,35 @@
-# Hi, I'm Vishnu K. Raman 👋
+# Hi, I'm Vishnu K. Raman 👋 
 
-[cite_start]**Software Engineer 2 @ Oracle Cerner** based in Bengaluru[cite: 18, 22, 31]. 
+**Software Engineer 2 @ Oracle ** | **Frontend Specialist** | **AI Explorer**
 
-- 🔭 I’m currently working on complex frontend architectures.
-- [cite_start]⚡ **Super Powers:** Three.js, WebGL, React, and Flutter.
-- [cite_start]🎨 **Design-Minded:** Certified in UI/UX and Wireframing[cite: 11, 12].
-- [cite_start]🎓 Master of Computer Applications from Amrita Vishwa Vidyapeetham[cite: 44].
+I am a Bengaluru-based engineer with a passion for bridging the gap between complex engineering and intuitive, high-performance user interfaces. With over 4 years of experience, I focus on building scalable applications with a design-first mindset.
 
-### 🛠 Tech Stack
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | [cite_start]React, Next.js, Vue, Redux, Typescript  |
-| **Backend** | [cite_start]Node.js, SQL, NoSQL  |
-| **Mobile** | [cite_start]Flutter  |
+---
+
+### 🚀 Tech Stack & Super Powers
+
+- **Frontend:** React JS, Vue JS, Next.js, Redux, Typescript, Tailwind CSS
+- **Creative Coding:** Three.js, WebGL
+- **Mobile:** Flutter
+- **Backend & DB:** Node.js, SQL, NoSQL
+- **Design:** UI/UX Design (Certified), Wireframing, Prototyping
+
+---
+
+### 🤖 AI & Innovation
+I am currently exploring the frontier of **Artificial Intelligence** to augment the modern development lifecycle.
+---
+
+
+
+### 📈 Professional Journey
+- **Software Engineer 2 @ Oracle** (April 2024 - Present)
+- **Associate Software Engineer @ Cerner** (Aug 2022 - April 2024)
+- **Education:** Master of Computer Applications (MCA) from Amrita Vishwa Vidyapeetham
+
+---
 
 ### 📫 Connect with me
-- [cite_start][LinkedIn](https://www.linkedin.com/in/vishnukraman) [cite: 3]
-- [cite_start][Portfolio](https://github.com/vishnuk7) [cite: 5]
+- **LinkedIn:** [linkedin.com/in/vishnukraman](https://www.linkedin.com/in/vishnukraman)
+- **Philosophy:** **ABC** — Always Be Curious
+
