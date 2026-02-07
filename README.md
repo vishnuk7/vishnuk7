@@ -1,6 +1,6 @@
 # Hi, I'm Vishnu K. Raman 👋 
 
-**Software Engineer 2 @ Oracle ** | **Frontend Specialist** | **AI Explorer**
+**Software Engineer 2** | **Frontend Specialist** | **AI Explorer**
 
 I am a Bengaluru-based engineer with a passion for bridging the gap between complex engineering and intuitive, high-performance user interfaces. With over 4 years of experience, I focus on building scalable applications with a design-first mindset.
 
