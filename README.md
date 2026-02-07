@@ -1,19 +1,19 @@
-### **<p align="center">Hi, there 👋 my name is Vishnu K Raman</p>**
-I'm a developer for fun and looking forward to learning new things every day
+# Hi, I'm Vishnu K. Raman 👋
 
-You can check out my coding art works in <a href="https://codepen.io/viuk/pens/popular">codepen</a>
+[cite_start]**Software Engineer 2 @ Oracle Cerner** based in Bengaluru[cite: 18, 22, 31]. 
 
-<!--
-**vishnuk7/vishnuk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on complex frontend architectures.
+- [cite_start]⚡ **Super Powers:** Three.js, WebGL, React, and Flutter.
+- [cite_start]🎨 **Design-Minded:** Certified in UI/UX and Wireframing[cite: 11, 12].
+- [cite_start]🎓 Master of Computer Applications from Amrita Vishwa Vidyapeetham[cite: 44].
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+| Category | Tools |
+| :--- | :--- |
+| **Frontend** | [cite_start]React, Next.js, Vue, Redux, Typescript  |
+| **Backend** | [cite_start]Node.js, SQL, NoSQL  |
+| **Mobile** | [cite_start]Flutter  |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- [cite_start][LinkedIn](https://www.linkedin.com/in/vishnukraman) [cite: 3]
+- [cite_start][Portfolio](https://github.com/vishnuk7) [cite: 5]
